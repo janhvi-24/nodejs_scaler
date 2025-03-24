@@ -1,0 +1,16 @@
+{
+  "name": "test(scaler_calc)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@janhvi-24/scaler_calc": "^1.0.0"
+  }
+}
